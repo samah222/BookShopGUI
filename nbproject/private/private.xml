@@ -3,20 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/University%20Work/UAE%20University/Projects/Mariam%20and%20Maitha/phase%202/Coffee%20Shop%20Management%20System/src/coffee/shop/CoffeeShopManagementSystem.java</file>
-            <file>file:/D:/University%20Work/UAE%20University/Projects/Mariam%20and%20Maitha/phase%202/Coffee%20Shop%20Management%20System/src/coffee/shop/Order.java</file>
-            <file>file:/D:/University%20Work/UAE%20University/Projects/Mariam%20and%20Maitha/phase%202/Coffee%20Shop%20Management%20System/src/coffee/shop/CashGUI.java</file>
-            <file>file:/D:/University%20Work/UAE%20University/Projects/Mariam%20and%20Maitha/phase%202/Coffee%20Shop%20Management%20System/src/coffee/shop/MainFrame.java</file>
-            <file>file:/D:/University%20Work/UAE%20University/Projects/Mariam%20and%20Maitha/phase%202/Coffee%20Shop%20Management%20System/src/coffee/shop/CustomerGUI.java</file>
-            <file>file:/D:/University%20Work/UAE%20University/Projects/Mariam%20and%20Maitha/phase%202/Coffee%20Shop%20Management%20System/src/coffee/shop/Item.java</file>
-            <file>file:/D:/University%20Work/UAE%20University/Projects/Mariam%20and%20Maitha/phase%202/Coffee%20Shop%20Management%20System/src/coffee/shop/OrderGUI.java</file>
-            <file>file:/D:/University%20Work/UAE%20University/Projects/Mariam%20and%20Maitha/phase%202/Coffee%20Shop%20Management%20System/src/coffee/shop/Customer.java</file>
-            <file>file:/D:/University%20Work/UAE%20University/Projects/Mariam%20and%20Maitha/phase%202/Coffee%20Shop%20Management%20System/src/coffee/shop/CardGUI.java</file>
-            <file>file:/D:/University%20Work/UAE%20University/Projects/Mariam%20and%20Maitha/phase%202/Coffee%20Shop%20Management%20System/src/coffee/shop/CardPayment.java</file>
-            <file>file:/D:/University%20Work/UAE%20University/Projects/Mariam%20and%20Maitha/phase%202/Coffee%20Shop%20Management%20System/src/coffee/shop/ItemGUI.java</file>
-            <file>file:/D:/University%20Work/UAE%20University/Projects/Mariam%20and%20Maitha/phase%202/Coffee%20Shop%20Management%20System/src/coffee/shop/CashPayment.java</file>
-            <file>file:/D:/University%20Work/UAE%20University/Projects/Mariam%20and%20Maitha/phase%202/Coffee%20Shop%20Management%20System/src/coffee/shop/Payment.java</file>
-            <file>file:/D:/University%20Work/UAE%20University/Projects/Mariam%20and%20Maitha/phase%202/Coffee%20Shop%20Management%20System/src/coffee/shop/Utilities.java</file>
+            <file>file:/D:/My%20Github%20Projects/BookStore-GUI/BookShopGUI/src/com/learning/gui/CashGUI.java</file>
+            <file>file:/D:/My%20Github%20Projects/BookStore-GUI/BookShopGUI/src/com/learning/gui/Item.java</file>
+            <file>file:/D:/My%20Github%20Projects/BookStore-GUI/BookShopGUI/src/com/learning/gui/CardPayment.java</file>
+            <file>file:/D:/My%20Github%20Projects/BookStore-GUI/BookShopGUI/src/com/learning/gui/CustomerGUI.java</file>
+            <file>file:/D:/My%20Github%20Projects/BookStore-GUI/BookShopGUI/src/com/learning/gui/Order.java</file>
+            <file>file:/D:/My%20Github%20Projects/BookStore-GUI/BookShopGUI/src/com/learning/gui/CashPayment.java</file>
+            <file>file:/D:/My%20Github%20Projects/BookStore-GUI/BookShopGUI/src/com/learning/gui/CardGUI.java</file>
+            <file>file:/D:/My%20Github%20Projects/BookStore-GUI/BookShopGUI/src/com/learning/gui/MainFrame.java</file>
+            <file>file:/D:/My%20Github%20Projects/BookStore-GUI/BookShopGUI/src/com/learning/gui/ItemGUI.java</file>
+            <file>file:/D:/My%20Github%20Projects/BookStore-GUI/BookShopGUI/src/com/learning/gui/Customer.java</file>
+            <file>file:/D:/My%20Github%20Projects/BookStore-GUI/BookShopGUI/src/com/learning/gui/OrderGUI.java</file>
+            <file>file:/D:/My%20Github%20Projects/BookStore-GUI/BookShopGUI/src/com/learning/gui/Payment.java</file>
         </group>
     </open-files>
 </project-private>
