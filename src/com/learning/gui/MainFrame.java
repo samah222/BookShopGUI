@@ -14,7 +14,7 @@ public class MainFrame extends javax.swing.JFrame {
      */
     public MainFrame() {
         initComponents();
-        setTitle("Coffee Shop Management System");
+        setTitle("Book Shop Management System");
 
         // Load the icon image 
         ImageIcon icon = new ImageIcon("open-book.png");

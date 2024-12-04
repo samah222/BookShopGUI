@@ -34,14 +34,19 @@ Automatic total calculations reduce the risk of billing errors, ensuring accurac
 ## Item Management
 
 Managers can easily add, update, or delete items in the inventory. Item quantities are tracked, with low-stock alerts to prevent shortages and maintain service continuity.
+![screenshot](itemManagement.jpg)
 
 ## Customer Management
 
 The application keeps customer details, including names, loyalty points, and order history.
 Loyalty points are updated, which helps in building customer relationships by recognizing the mostly visited customers.
 Customer data makes it possible for staff to provide a more personalized service, by reviewing the previous orders and preferences, the coffee shop can create special services in the future.
+![screenshot](customerManagement.jpg)
 
 ## Payment Processing
 
 The system supports cash and card payments, offering flexibility to customers. For cash payments, the system calculates and displays change automatically which minimizes errors.
+![screenshot](cashPayment.jpg)
+
 For card payment, customer data is securely processed to ensure privacy and safety (CVV displayed hidden as password in our GUI).In addition, every payment is linked to an order.
+![screenshot](cardPayment.jpg)
